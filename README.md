@@ -272,21 +272,19 @@ Upon full deployment, the Leave Management System achieves:
 ```text
 Software_Group/
 │
-├── README.md                                    # Comprehensive Project Documentation
+├── README.md                                           # Comprehensive Project Documentation
 │
-├── docs/                                        # System Design & Architectural Artifacts
+├── docs/                                               # System Design & Architectural Artifacts
 │   └── images/
-│       ├── system-architecture-diagram.png     # 3-Tier Layered Architecture Diagram
-│       ├── use-case-diagram.png                # System Use Case Diagram
-│       ├── activity-workflow-diagram.png       # Swimlane Activity Flowchart
-│       └── class-diagram.png                   # Domain Model Class Diagram
+│       ├── system-architecture-diagram.png            # 3-Tier Layered Architecture Diagram
+│       ├── use-case-diagram.png                       # System Use Case Diagram
+│       ├── activity-workflow-diagram.png              # Swimlane Activity Flowchart
+│       └── class-diagram.png                          # Domain Model Class Diagram
 │
-├── Elicitation_Document.pdf                    # Requirements Elicitation & Stakeholder Analysis
-├── Elicitation_Document.docx
-├── Leave_Management_System_Documentation.pdf   # Core Project Specification Document
-├── Leave_Management_System_Documentation.docx
-├── SRS_IEEE_Format-2.pdf                       # IEEE Standard Software Requirements Specification
-└── SRS_IEEE_Format-2.docx
+├── Elicitation_Document.pdf                           # Requirements Elicitation & Stakeholder Analysis
+├── Leave_Management_System_Documentation.pdf          # Core Project Specification Document
+├── SRS.pdf                                            # IEEE Standard Software Requirements Specification
+└── GITHUB REPO and UML use case - Google Docs.pdf     # UML Use Cases & GitHub Repository Structure
 ```
 
 ---
@@ -294,8 +292,9 @@ Software_Group/
 ## 📄 Documentation References
 For in-depth specifications, consult the project documents:
 - [Project Documentation (PDF)](Leave_Management_System_Documentation.pdf)
-- [Software Requirements Specification - IEEE Format (PDF)](SRS_IEEE_Format-2.pdf)
+- [Software Requirements Specification (PDF)](SRS.pdf)
 - [Requirements Elicitation Document (PDF)](Elicitation_Document.pdf)
+- [GitHub Repo & UML Use Case Guide (PDF)](<GITHUB REPO and UML use case - Google Docs.pdf>)
 
 ---
 *Developed with pride as a B.Tech Major Project in Computer Science & Engineering.*
